@@ -1,3 +1,5 @@
+// Simple program to find the day that comes after a day and a count of days.
+
 #include<stdio.h>
 int main()
 {
