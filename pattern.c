@@ -1,3 +1,12 @@
+//Generate a pattern that follows column wise arrangement of numbers.
+// For example input 5 has the output
+// 1 6 10 13 15
+// 2 7 11 14
+// 3 8 12
+// 4 9
+// 5
+
+
 #include<stdio.h>
 int main()
 {
