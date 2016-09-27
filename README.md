@@ -1,3 +1,3 @@
 # C-practice-Algorithms
-A brush of basic C algorithms
+A brush up  of basic C algorithms
 -- Includes stuff related to code optimization,different approaches to a problem etc.
